@@ -33,5 +33,6 @@ public class Agent implements Service{
 
         System.out.println("结算费用...");
         System.out.println(1);
+        System.out.println(1);
     }
 }
