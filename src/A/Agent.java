@@ -32,5 +32,6 @@ public class Agent implements Service{
         // 过程中只需改动目标对象类的代码，不需要改动该类的具体代码，耦合度降低
 
         System.out.println("结算费用...");
+        System.out.println(1);
     }
 }
